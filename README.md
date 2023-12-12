@@ -32,4 +32,4 @@ Key libraries and frameworks used in this project:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone insert_repository_link_here
+   git clone https://github.com/huseyincenik/nlp_natural_language_processing.git

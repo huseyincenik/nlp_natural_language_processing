@@ -43,4 +43,4 @@ For detailed insights, methodologies, and findings, check the full project on [K
 ## Usage
 Clone the repository and access the notebooks/scripts to explore the project:
 ```bash
-git clone insert_repository_link_here
+git clone https://github.com/huseyincenik/nlp_natural_language_processing.git

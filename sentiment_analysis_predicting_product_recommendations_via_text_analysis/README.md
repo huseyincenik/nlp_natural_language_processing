@@ -38,8 +38,7 @@ Multiple models were explored and evaluated in this project:
 - Average Precision Score
 
 ## Project Details
-For detailed insights, methodologies, and findings, check the full project on [Kaggle](https://www.kaggle.com/huseyincenik/sentiment-analysis-predicting-product-recommends) and [Github](https://github.com/huseyincenik/nlp_natural_language_processing/tree/main/sentiment_analysis_predicting_product_recommendations_via_text_analysis)
-
+For detailed insights, methodologies, and findings, check the full project on [Kaggle](https://www.kaggle.com/huseyincenik/sentiment-analysis-predicting-product-recommends), [Github](https://github.com/huseyincenik/nlp_natural_language_processing/tree/main/sentiment_analysis_predicting_product_recommendations_via_text_analysis) and[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7140288475634843648/)
 ## Usage
 Clone the repository and access the notebooks/scripts to explore the project:
 ```bash

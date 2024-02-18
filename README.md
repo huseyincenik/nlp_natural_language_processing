@@ -15,10 +15,14 @@ Natural Language Processing involves the application of machine learning and dee
 - **Sentiment Analysis:** Determining the sentiment of textual content.
 - **Language Translation:** Building models for language translation tasks.
 - **Speech Recognition:** Processing and recognizing spoken language.
+
+  
 ## Projects
 | Project Name                                               | Description                                                                                           | Kaggle | GitHub |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------|--------|
 | Sentiment Analysis: Predicting Product Recommendations via Text Analysis | This project focuses on sentiment analysis to predict product recommendations through advanced text analysis techniques. Explore various machine learning algorithms and deep learning models for accurate predictions. | [Kaggle](https://www.kaggle.com/huseyincenik/sentiment-analysis-predicting-product-recommends) | [GitHub](https://github.com/huseyincenik/nlp_natural_language_processing/tree/main/sentiment_analysis_predicting_product_recommendations_via_text_analysis) |
+| Sentiment Analysis on Movie Reviews | This project explores various pre-trained models for sentiment analysis on movie reviews. By leveraging Kaggle's TPU, I trained BERT, RoBERTa, DistilBERT, XLNet, GPT, BART, MobileBERT, ALBERT, and ELECTRA models, each for a maximum of 2 epochs to prevent overfitting. | [Kaggle Notebook 1](https://www.kaggle.com/code/huseyincenik/transformers-for-sentiment-classification-1) [Kaggle Notebook 2](https://www.kaggle.com/code/huseyincenik/transformers-for-sentiment-classification-2) | [GitHub](https://github.com/huseyincenik/nlp_natural_language_processing/tree/main/projects/transformers_for_sentiment_classification) |
+
 
 
 ## Libraries and Tools

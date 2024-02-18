@@ -11,8 +11,8 @@ This project explores various pre-trained models for sentiment analysis on movie
 Check out the notebooks for detailed analysis and comparisons between different models!
 
 ## Links:
-- [Notebook 1](https://www.kaggle.com/code/huseyincenik/transformers-for-sentiment-classification-1)
-- [Notebook 2](https://www.kaggle.com/code/huseyincenik/transformers-for-sentiment-classification-2)
+- [Kaggle Notebook 1](https://www.kaggle.com/code/huseyincenik/transformers-for-sentiment-classification-1)
+- [Kaggle Notebook 2](https://www.kaggle.com/code/huseyincenik/transformers-for-sentiment-classification-2)
 - [Github Notebook](https://github.com/huseyincenik/nlp_natural_language_processing/tree/main/projects/transformers_for_sentiment_classification)
 - [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7164984024669663233/)
 

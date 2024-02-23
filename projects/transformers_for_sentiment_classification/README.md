@@ -1,12 +1,12 @@
 # Sentiment Analysis on Movie Reviews with Pre-Trained Models
 
-![image](https://github.com/huseyincenik/nlp_natural_language_processing/assets/127469334/39a9c1cc-a6bb-42a8-a245-c1a7c7bc018f)
+![image](https://github.com/huseyincenik/nlp_natural_language_processing/blob/main/projects/transformers_for_sentiment_classification/images/compare_final.png)
 
 This project explores various pre-trained models for sentiment analysis on movie reviews. By leveraging Kaggle's TPU, I trained BERT, RoBERTa, DistilBERT, XLNet, GPT, BART, MobileBERT, ALBERT, and ELECTRA models, each for a maximum of 2 epochs to prevent overfitting.
 
 ## Highlights:
-- RoBERTa model ranked 1st in Recall, F1 Score, and Average Precision Score in the first notebook.
-- ELECTRA model outperformed all other models in the second notebook, achieving the highest scores across all metrics.
+- According to observations from the first notebook, RoBERTa model ranked 1st in terms of Recall, F1 Score and XLNet model ranked 1st in terms of Average Precision Score</span>. Here, the RoBERTa model stood out more compared to other models.
+- According to observations from the first and second notebook, MobileBERT model ranked 1st in terms of Recall, RoBERTa model ranked 1st in terms of F1 Score and ELECTRA model ranked 1st in terms of Average Precision Score. Here, the ELECTRA model stood out more compared to other models.
 
 Check out the notebooks for detailed analysis and comparisons between different models!
 

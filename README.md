@@ -37,3 +37,5 @@ Key libraries and frameworks used in this project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/huseyincenik/nlp_natural_language_processing.git
+
+[![](https://visitcount.itsvg.in/api?id=huseyincenik.nlp_natural_language_processing&label=Visiter%20Count&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
